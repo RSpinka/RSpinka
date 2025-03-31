@@ -1,8 +1,7 @@
 
 ![Det-with-bug-bright2cropblack](https://github.com/user-attachments/assets/2fec122c-6d18-4f7a-b665-7a83e9079cb3)
 
-<h1>Radek Špinka<br>
-💻 Junior Software Tester</h1>
+<h1>Radek Špinka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 Junior Software Tester</h1>
 <h2>👋 About Me</h2>
 I am a passionate <strong>Junior Software Tester</strong> with experience in <strong>manual testing, bug reporting, and regression test design</strong>. I have a strong understanding of <strong>software development processes</strong>, including Agile methodologies like <strong>Scrum</strong>. My background in translation has sharpened my <strong>attention to detail</strong>, which I now apply to software testing.
 <br><br>
