@@ -3,7 +3,7 @@
 
 # Radek Špinka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Software Tester
 
-**see my [Projects](#🚀Projects) bellow**
+**see my [Projects](#Projects) bellow**
 
 
 ## 👋 About Me
@@ -78,12 +78,12 @@ Topics: Test principles, Test Cases, Bug Reports, Scrum & Agile, SQL, REST & SOA
 ## 🚀 Projects
 🔗 Check out my repositories where I share my projects:
 
-[API test scripts from Postman](API-testing/readme.md) 
+[API test scripts from Postman](../API-testing/) 
 
 --- 
 
 ## 📬 Let's Connect
-🔗 LinkedIn: [https://linkedin.com/in/spinka-radek](linkedin.com/in/spinka-radek)
+🔗 LinkedIn: [https://linkedin.com/in/spinka-radek](https://linkedin.com/in/spinka-radek)
 
 📧 Email: rspinka@volny.cz
 
