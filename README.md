@@ -3,7 +3,7 @@
 
 # Radek Špinka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Software Tester
 
-**see my [Projects](#Projects) bellow**
+**see my <a href="#Projects">My Projects</a> bellow**
 
 
 ## 👋 About Me
@@ -75,10 +75,12 @@ Topics: Test principles, Test Cases, Bug Reports, Scrum & Agile, SQL, REST & SOA
 
 ---
 
-## 🚀 Projects
+## 🚀 <a name="Projects">My Projects </a>
 🔗 Check out my repositories where I share my projects:
 
-[API test scripts from Postman](../API-testing/) 
+### [API-testing](https://github.com/RSpinka/API-testing) 
+
+- Presentation of my API testing project (CRUD on free API with Tests) in Postman
 
 --- 
 
