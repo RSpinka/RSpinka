@@ -1,4 +1,4 @@
-![Det-with-bug-bright5crop](https://github.com/user-attachments/assets/c94b15e5-bea9-4ac9-8d52-8d8eaccd39d9)
+![Det-with-bug-bright5crop](https://github.com/RSpinka/RSpinka/blob/main/Det-with-bug-bright5crop.jpg))
 
 
 # Radek Špinka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Software Tester
