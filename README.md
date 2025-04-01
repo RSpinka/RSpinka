@@ -3,8 +3,6 @@
 
 # Radek Špinka &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Junior Software Tester
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **see My Projects bellow**
-
 
 
 ## 👋 About Me
@@ -17,6 +15,15 @@ I am a passionate **Junior Software Tester** with experience in **manual testing
 🌍 Fluent in **German** (C2), **English** (B2), and **French** (A2)
 
 ---
+
+## 🚀 My Projects
+Check out my repositories where I share my projects:
+
+### [API-testing](https://github.com/RSpinka/API-testing) 
+
+- Presentation of my API testing project (CRUD on free API with Tests) in Postman
+
+--- 
 
 ## 🔧 Technical Skills
 ### 💻 Testing / QA & Databases
@@ -76,22 +83,10 @@ Topics: Test principles, Test Cases, Bug Reports, Scrum & Agile, SQL, REST & SOA
 
 ---
 
-## 🚀 My Projects
-Check out my repositories where I share my projects:
-
-### [API-testing](https://github.com/RSpinka/API-testing) 
-
-- Presentation of my API testing project (CRUD on free API with Tests) in Postman
-
---- 
-
 ## 📬 Let's Connect
 🔗 LinkedIn: [https://linkedin.com/in/spinka-radek](https://linkedin.com/in/spinka-radek)
 
 📧 Email: rspinka@volny.cz
 
 
-<!---
-RSpinka/RSpinka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
