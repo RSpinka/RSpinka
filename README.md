@@ -44,10 +44,11 @@ Reviewing and testing web application specifications.
 ✅ Complete Training for Testers (LucieTvrdikova.cz, 03/2024)<br>
 Topics: Test principles, Test Cases, Bug Reports, Scrum & Agile, SQL, REST & SOAP API testing, XML & JSON, Automation basics
 <br><br><br>
-<!--
-🚀 Projects & Contributions<br>
-🔗 Check out my repositories where I share test cases, API test scripts, and SQL queries: GitHub Profile
-<br><br>-->
+
+🚀 Projects <br>
+🔗 Check out my repositories where I share my projects:<br>
+[API test scripts from Postman](RSpinka/API-testing) / [Postman view](https:raw/githubusercontent/RSpinka/API-testing/screenshots/PM01.png)
+<br><br>
 <h2>📬 Let's Connect</h2>
 🔗 LinkedIn: <a href="https://linkedin.com/in/spinka-radek">linkedin.com/in/spinka-radek</a><br>
 📧 Email: rspinka@volny.cz
