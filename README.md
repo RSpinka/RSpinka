@@ -23,6 +23,10 @@ Check out my repositories where I share my projects:
 
 - Presentation of my API testing project (CRUD on free API with Tests) in Postman
 
+### [SQL-Project](https://github.com/RSpinka/SQL) 
+
+- Presentation of my SQL project (creating & updating tables, inserting data and queries
+
 --- 
 
 ## 🔧 Technical Skills
